@@ -153,28 +153,4 @@ All activities are stored locally on the device using AsyncStorage. Data persist
 - `npm run web` - Start web version
 - `npm run lint` - Run ESLint
 
-### Code Style
 
-- TypeScript for type safety
-- Functional components with React Hooks
-- Consistent styling with StyleSheet
-- Error handling for async operations
-
-## Future Enhancements
-
-Potential features for future versions:
-- Charts and graphs for activity trends
-- Weekly/monthly summaries
-- Goal setting and tracking
-- Notifications and reminders
-- Data export functionality
-- Multiple user profiles
-- Integration with health apps (Apple Health, Google Fit)
-
-## License
-
-This project is created as an assignment submission.
-
-## Author
-
-React Native Intern Assignment - Personal Health Tracker App
