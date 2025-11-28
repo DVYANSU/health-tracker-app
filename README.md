@@ -6,7 +6,7 @@ A React Native mobile application built with Expo that helps users track their d
 
 ### Core Features
 
-#### 1. Welcome/Onboarding Screen
+#### 1. Welcome Screen
 - Simple introduction to the app
 - Button to proceed to the main application
 - Onboarding status is saved to prevent showing the screen again
